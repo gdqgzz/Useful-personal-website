@@ -1,0 +1,14 @@
+@font-face {/* 新标题 */
+	font-family: 'titleFonts';
+	src: url('./templates/Oswald-Regular.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {/* 正文 */
+	font-family: 'textFonts';
+	src: url('./templates/OpenSans-Regular.ttf');
+}
+@font-face{
+	font-family: 'spearTitle';
+	src: url('./templates/Roboto-Black.ttf');
+}
